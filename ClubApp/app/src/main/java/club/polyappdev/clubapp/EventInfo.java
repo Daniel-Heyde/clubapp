@@ -7,6 +7,10 @@ import android.os.Bundle;
 import android.view.View;
 import android.widget.TextView;
 
+import java.text.DateFormat;
+import java.text.SimpleDateFormat;
+import java.util.Date;
+
 import club.polyappdev.clubapp.Models.Event;
 
 public class EventInfo extends AppCompatActivity {
@@ -23,8 +27,19 @@ public class EventInfo extends AppCompatActivity {
         String name = dataBundle.getString("eventName");
         String description = dataBundle.getString("eventDesc");
         String stringLoc = dataBundle.getString("eventStrLoc");
-        Long date = dataBundle.getLong("eventDate");
+        Long dateLong = dataBundle.getLong("eventDate");
+        Date date = new Date();
+        date.setTime(dateLong);
+        String dateString = DateFormat.getDateInstance().format(date);
+        String timeString = DateFormat.getTimeInstance().format(date);
+
+        String dateTime = dateString + " at " + timeString;
+
+
+
         String clubName = dataBundle.getString("eventClub");
+
+
 
 
         setContentView(R.layout.activity_event);
@@ -36,7 +51,7 @@ public class EventInfo extends AppCompatActivity {
         nameText.setText(name);
         descText.setText(description);
         locText.setText(stringLoc);
-        dateText.setText(date.toString());
+        dateText.setText(dateTime);
         clubText.setText(clubName);
     }
 

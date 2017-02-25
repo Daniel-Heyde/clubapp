@@ -11,7 +11,9 @@ import android.widget.BaseAdapter;
 import android.widget.ImageView;
 import android.widget.TextView;
 
+import java.text.DateFormat;
 import java.util.ArrayList;
+import java.util.Date;
 import java.util.HashMap;
 
 import club.polyappdev.clubapp.Models.Club;
@@ -62,7 +64,13 @@ public class subscriptionRowAdapter extends ArrayAdapter<Event> {
                 eventLoc.setText(event.getStringLoc());
             }
             if (eventDateTime != null){
-                eventDateTime.setText(event.getDate().toString());
+
+                String dateString = DateFormat.getDateInstance().format(event.getDate());
+                String timeString = DateFormat.getTimeInstance().format(event.getDate());
+
+                String dateTime = dateString + " at " + timeString;
+
+                eventDateTime.setText(dateTime);
             }
         }
         return view;
