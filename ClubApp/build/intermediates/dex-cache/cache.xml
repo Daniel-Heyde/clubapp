@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/Alex/AndroidStudioProjects/clubapp/ClubApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="/Users/Alex/AndroidStudioProjects/clubapp/ClubApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-24.2.1_5c341dec0d15d0e7ebee0ed8e705bd42948d6d0d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Alex/AndroidStudioProjects/clubapp/ClubApp/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="/Users/Alex/AndroidStudioProjects/clubapp/ClubApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_b145d34c42cf0e9654da24c9d4e79aed822743cb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Alex/AndroidStudioProjects/clubapp/ClubApp/app/build/intermediates/exploded-aar/com.android.support/design/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e03f47f3d1017a093bb3239d4ec47c3447f40744">
+        <dex dex="/Users/Alex/AndroidStudioProjects/clubapp/ClubApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-24.2.1_80705b278843a6baf57e21bfb96b5f3b52de163f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Alex/AndroidStudioProjects/clubapp/ClubApp/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="/Users/Alex/AndroidStudioProjects/clubapp/ClubApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-24.2.1_b3da9539f1f72724d322d7d72144034910100881/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Alex/AndroidStudioProjects/clubapp/ClubApp/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="/Users/Alex/AndroidStudioProjects/clubapp/ClubApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-24.2.1_363a3d06b0caba0595778f62da3212d4dd1dd090/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Alex/AndroidStudioProjects/clubapp/ClubApp/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/Alex/AndroidStudioProjects/clubapp/ClubApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.2.1_80885a5f7e7ad6985902f2c9e0fbc7ab8ab7eb88/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Alex/AndroidStudioProjects/clubapp/ClubApp/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="/Users/Alex/AndroidStudioProjects/clubapp/ClubApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-24.2.1_60fede971efc3a39559ea6051ecb5eeae17623d1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Alex/AndroidStudioProjects/clubapp/ClubApp/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
+        <dex dex="/Users/Alex/AndroidStudioProjects/clubapp/ClubApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-24.2.1_e727e891de48b2ed831fd8d779b72a31b780b1ad/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Alex/AndroidStudioProjects/clubapp/ClubApp/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="/Users/Alex/AndroidStudioProjects/clubapp/ClubApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_4ecfce4247e6e62942e58d5ca2486437df3b41f6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Alex/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.1/support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="/Users/Alex/AndroidStudioProjects/clubapp/ClubApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.2.1_fae36aa56f6e1ff1c73894298844c65ad74204f7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Alex/AndroidStudioProjects/clubapp/ClubApp/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="85587d76571e50ce2ae6cf104fb5728f9b755eed">
+        <dex dex="/Users/Alex/AndroidStudioProjects/clubapp/ClubApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_23dc9743e247b92e42961d32517b66269af404a4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Alex/AndroidStudioProjects/clubapp/ClubApp/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="/Users/Alex/AndroidStudioProjects/clubapp/ClubApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-24.2.1_249c5fdfeecf31d70f6c3a7caaac8273e460117a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Alex/AndroidStudioProjects/clubapp/ClubApp/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="/Users/Alex/AndroidStudioProjects/clubapp/ClubApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_de6eb027306d22abf265d29d805cc264d6c579ae/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Alex/AndroidStudioProjects/clubapp/ClubApp/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="/Users/Alex/AndroidStudioProjects/clubapp/ClubApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_67cfb277965330bf136986fae0a51039cfaf4f7e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Alex/AndroidStudioProjects/clubapp/ClubApp/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="/Users/Alex/AndroidStudioProjects/clubapp/ClubApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_bf498d8839093237cf35681fe9d20b0d74047ebe/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Alex/AndroidStudioProjects/clubapp/ClubApp/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="/Users/Alex/AndroidStudioProjects/clubapp/ClubApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-24.2.1_8cb3a510c5e80f3dba515ddc0718b348060f6230/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Alex/AndroidStudioProjects/clubapp/ClubApp/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="5dcb55f556dd30af781ab3a912edec2382ffaf38">
+        <dex dex="/Users/Alex/AndroidStudioProjects/clubapp/ClubApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_85404f81962a34899a99ef1b5ea9c5297411c3ab/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Alex/AndroidStudioProjects/clubapp/ClubApp/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="/Users/Alex/AndroidStudioProjects/clubapp/ClubApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.2.1_a1a37419ca63b229fca64d69fdef5c66a84ba0c5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Alex/AndroidStudioProjects/clubapp/ClubApp/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="/Users/Alex/AndroidStudioProjects/clubapp/ClubApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-24.2.1_d9010810be24654afce4bcf562f11d6582839f62/classes.dex" />
+    </item>
+
+</items>
