@@ -3,7 +3,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context="club.polyappdev.clubapp.Profile">
+    tools:context="club.polyappdev.clubapp.StudentViewable.Profile">
 
     <!-- TODO: Update blank fragment layout -->
 
@@ -47,6 +47,15 @@
             android:id="@+id/majorView"
             android:textAppearance="@android:style/TextAppearance.Material.Medium"
             android:layout_below="@+id/nameView"
+            android:layout_centerHorizontal="true" />
+
+        <Button
+            android:text="To Club Profile"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="21dp"
+            android:id="@+id/clubprofilebutton"
+            android:layout_above="@+id/logoutButton"
             android:layout_centerHorizontal="true" />
     </RelativeLayout>
 </FrameLayout>

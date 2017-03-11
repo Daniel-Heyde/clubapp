@@ -1,4 +1,4 @@
-package club.polyappdev.clubapp;
+package club.polyappdev.clubapp.StudentViewable;
 
 import android.content.Context;
 import android.support.annotation.NonNull;
@@ -19,6 +19,7 @@ import java.util.HashMap;
 import club.polyappdev.clubapp.Models.Club;
 import club.polyappdev.clubapp.Models.Event;
 import club.polyappdev.clubapp.Models.Subscription;
+import club.polyappdev.clubapp.R;
 
 /**
  * Created by dphey on 2/4/2017.
