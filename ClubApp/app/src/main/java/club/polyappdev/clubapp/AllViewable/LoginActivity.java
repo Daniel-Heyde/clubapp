@@ -7,6 +7,7 @@ import android.view.View;
 import android.widget.Button;
 import android.widget.EditText;
 
+import club.polyappdev.clubapp.ClubProfileActivity;
 import club.polyappdev.clubapp.ClubViewable.ClubMainActivity;
 import club.polyappdev.clubapp.R;
 import club.polyappdev.clubapp.StudentViewable.MainActivity;
