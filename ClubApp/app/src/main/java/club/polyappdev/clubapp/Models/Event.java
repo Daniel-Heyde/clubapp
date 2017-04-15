@@ -20,6 +20,10 @@ public class Event {
     private String stringDate;
     private String clubName;
     private Club club;
+    private String title;
+    private String photo; /* reference to cache */
+    private List<String> keywords;
+    private boolean food; // yum ;)
     //FIXME Let's add a photo for Events
 
     public Club getClub() {
@@ -39,10 +43,7 @@ public class Event {
         this.stringLoc = stringLoc;
     }
 
-    private String title;
-    private String photo; /* reference to cache */
-    private List<String> keywords;
-    private boolean food; // yum ;)
+
 
     public Location getLocation() {
         return location;
