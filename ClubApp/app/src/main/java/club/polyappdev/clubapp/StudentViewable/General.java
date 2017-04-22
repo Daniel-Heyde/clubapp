@@ -17,6 +17,7 @@ import com.google.android.gms.maps.model.MarkerOptions;
 import club.polyappdev.clubapp.R;
 
 
+
 /**
  * A simple {@link Fragment} subclass.
  * Activities that contain this fragment must implement the
