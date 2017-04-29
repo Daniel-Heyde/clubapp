@@ -1,7 +1,0 @@
-#Sat Apr 15 15:34:26 PDT 2017
-base.0=/Users/Alex/AndroidStudioProjects/clubapp/ClubApp/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_85404f81962a34899a99ef1b5ea9c5297411c3ab
-renamed.1=classes2.dex
-renamed.0=classes.dex
-file.1=/Users/Alex/AndroidStudioProjects/clubapp/ClubApp/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_23dc9743e247b92e42961d32517b66269af404a4/classes.dex
-base.1=/Users/Alex/AndroidStudioProjects/clubapp/ClubApp/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_23dc9743e247b92e42961d32517b66269af404a4
-file.0=/Users/Alex/AndroidStudioProjects/clubapp/ClubApp/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_85404f81962a34899a99ef1b5ea9c5297411c3ab/classes.dex
