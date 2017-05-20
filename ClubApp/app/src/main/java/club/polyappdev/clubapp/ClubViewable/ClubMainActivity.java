@@ -1,11 +1,13 @@
 package club.polyappdev.clubapp.ClubViewable;
 
 import android.content.Intent;
+import android.support.design.widget.FloatingActionButton;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.util.Log;
 import android.view.Menu;
 import android.view.MenuItem;
+import android.view.View;
 import android.widget.Toast;
 
 import club.polyappdev.clubapp.AllViewable.LoginActivity;
@@ -19,6 +21,17 @@ public class ClubMainActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_club_main);
+        Toast clubtoast;
+        clubtoast = Toast.makeText(this, "Logged in to club mode.", Toast.LENGTH_SHORT);
+        clubtoast.show();
+        FloatingActionButton createEventFab =(FloatingActionButton) findViewById(R.id.fab);
+        createEventFab.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                Intent eventCreateIntent = new Intent(ClubMainActivity.this, ClubEventCreator.class);
+                startActivity(eventCreateIntent);
+            }
+        });
     }
 
     @Override
